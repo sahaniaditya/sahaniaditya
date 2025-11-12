@@ -1,11 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://sahaniaditya.io)
 <h1 align="center">Hi 👋, I'm Aditya Sahani</h1>
-<h3 align="center">A passionate Learner.</h3>
+<h3 align="center">Full-stack Developer • MERN • Deep Learning • Agentic AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahaniaditya&label=Profile%20views&color=0e75b6&style=flat" alt="sahaniaditya" /> </p>
 
 
-- 🌱 I’m currently learning *Computer Vision, NLP and Development.*
+- 🌱 I’m currently pursuing *Full-Stack Development, Agentic AI and LLMs.*
 - 📫 How to reach me: [b22cs003@iitj.ac.in](mailto:b22cs003@iitj.ac.in)
 - 📄 You can find my resume [here](https://drive.google.com/file/d/1mgEmrs6RghceDPHCXs0sJ2ava00DNnMO/view).
 - ⚡ Fun fact: Tech enthusiast, avid reader,  aspiring innovator.
