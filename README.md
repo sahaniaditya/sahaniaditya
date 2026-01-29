@@ -9,8 +9,6 @@
 - 📫 How to reach me: [b22cs003@iitj.ac.in](mailto:b22cs003@iitj.ac.in)
 - 📄 You can find my resume [here](https://drive.google.com/file/d/1mgEmrs6RghceDPHCXs0sJ2ava00DNnMO/view).
 - ⚡ Fun fact: Tech enthusiast, avid reader,  aspiring innovator.
-- ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahaniaditya&theme=dark)
-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sahaniaditya)](https://github.com/sahaniaditya/github-readme-stats)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaniaditya&layout=compact)
 
 
