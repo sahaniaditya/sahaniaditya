@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/aditya-sahani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/sahaniaditya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="mailto:b22cs003@iitj.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://drive.google.com/file/d/1mgEmrs6RghceDPHCXs0sJ2ava00DNnMO/view"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <!-- <a href="https://drive.google.com/file/d/1mgEmrs6RghceDPHCXs0sJ2ava00DNnMO/view"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a> -->
 </p>
 
 <p align="center">
