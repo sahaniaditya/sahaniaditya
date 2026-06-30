@@ -94,6 +94,11 @@ class AdityaSahani:
  
 </p>
 
+<!-- ====== CONTRIBUTION SNAKE ====== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahaniaditya/sahaniaditya/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahaniaditya&theme=tokyonight" alt="streak stats"/>
 </p>
@@ -125,9 +130,6 @@ class AdityaSahani:
 
 ---
 
-<!-- ====== CONTRIBUTION SNAKE ====== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahaniaditya/sahaniaditya/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
+
 
 <p align="center"><i>⭐️ From <a href="https://github.com/sahaniaditya">Aditya Sahani</a> — thanks for stopping by!</i></p>
