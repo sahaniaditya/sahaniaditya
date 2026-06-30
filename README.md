@@ -5,7 +5,7 @@
 
 <!-- ====== TYPING ANIMATION ====== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Sahani;Full-Stack+Developer+%7C+MERN;Deep+Learning+%26+Agentic+AI+Enthusiast;Always+Building%2C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Sahani;Full-Stack+Developer;LLM+%26+Agentic+AI+Enthusiast;Always+Building%2C+Always+Learning" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -38,9 +38,9 @@ class AdityaSahani:
 
 - 🌱 Currently deepening my skills in **Full-Stack Development, Agentic AI, and LLMs**
 - 🤝 Open to **collaboration** on full-stack and applied-ML projects
-- 💬 Ask me about **React, Node.js, Python, or Deep Learning**
-- 📫 Reach me at **[b22cs003@iitj.ac.in](mailto:b22cs003@iitj.ac.in)**
-- 📄 My **[resume is here](https://drive.google.com/file/d/1mgEmrs6RghceDPHCXs0sJ2ava00DNnMO/view)**
+- 💬 Ask me about **React, Node.js, Python, or AI**
+- 📫 Reach me at **[adityasahani893@gmail.com](mailto:adityasahani893@gmail.com)**
+
 
 ---
 
@@ -89,8 +89,8 @@ class AdityaSahani:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahaniaditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaniaditya&layout=compact&langs_count=8&theme=tokyonight" alt="top langs"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahaniaditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaniaditya&layout=compact&langs_count=8&theme=tokyonight" alt="top langs"/> -->
  
 </p>
 
@@ -98,9 +98,9 @@ class AdityaSahani:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahaniaditya&theme=tokyonight" alt="streak stats"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahaniaditya&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
+</p> -->
 
 ---
 
