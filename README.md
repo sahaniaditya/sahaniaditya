@@ -46,7 +46,7 @@ class AdityaSahani:
 
 ## 📌 Featured Projects
 
-> _Pin your best repositories on your profile, then optionally highlight them here._
+> _My Some of the Best Projects_
 
 | Project | Description | Tech |
 |---------|-------------|------|
