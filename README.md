@@ -57,18 +57,20 @@ class AdityaSahani:
 ### 🚀 Software Engineer | Kimaru.ai
 **📍 Remote | 🗓️ May 2026 – Jun 2026**
 
-- 🤖 Built AI-powered SaaS applications using **Next.js, TypeScript, FastAPI, and Tailwind CSS**.
-- 🔗 Integrated **LLMs, REST APIs, and modern frontend technologies** to deliver scalable, responsive user experiences.
-- ⚡ Optimized application performance and collaborated on production deployments following modern software engineering practices.
+- 🏭 Architected and implemented a production-grade supply chain optimization platform for a large carpet manufacturer, automating yarn requirement planning, minimizing raw material wastage, and generating optimized loom production schedules.
+- ⚙️ Developed scalable full-stack services using **FastAPI, Next.js, TypeScript, PostgreSQL, and Docker**, replacing manual planning workflows with an intelligent optimization engine.
+- ☁️ Deployed and maintained the application on **AWS** using containerized infrastructure, improving deployment reliability and operational scalability.
+- 👥 Led a team of **5+ software engineering interns**, owning technical architecture, feature planning, code reviews, and engineering best practices.
 
 ---
 
 ### 🤖 AI Engineer | Quark Inc.
 **📍 Japan | 🗓️ Jul 2025 – Apr 2026**
 
-- 🧠 Developed enterprise **Generative AI** applications using **LangChain, OpenAI APIs, Google Gemini, and ChromaDB**.
-- 🌾 Built and deployed a full-stack land leasing platform using **React, Node.js, Tailwind CSS, and AWS**.
-- 🚀 Delivered production-ready AI and cloud-native solutions for enterprise clients.
+- 🇯🇵 Delivered enterprise AI solutions for Japanese clients by developing LLM-powered applications for knowledge management, document intelligence, and business process automation.
+- 🏗️ Built an **AI agent for automated 2D CAD-to-3D model conversion**, combining LLM reasoning with geometric processing to interpret engineering drawings, generate parametric 3D CAD models, and incorporate **human-in-the-loop validation** for iterative refinement and production-grade accuracy.
+- 🧠 Developed Retrieval-Augmented Generation (RAG) systems using **LangChain, OpenAI APIs, Google Gemini, and ChromaDB**, enabling semantic search and intelligent querying across enterprise knowledge bases.
+- ☁️ Designed and deployed scalable AI applications using **FastAPI, React, Node.js, Docker, and AWS**, integrating vector databases, secure APIs, and cloud-native infrastructure.
 
 ---
 
