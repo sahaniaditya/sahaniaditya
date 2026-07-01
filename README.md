@@ -50,7 +50,7 @@ class AdityaSahani:
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Project One](#)** | One-line summary of what it does and why it's cool. | React · Node · MongoDB |
+| **[PromptChef - VSCode Extension](https://github.com/sahaniaditya/PromptChef-VSCode)** | Turn vague prompts into clear, well-specified ones — right inside VS Code. | TypeScript · VSCode · LLMs |
 | **[Project Two](#)** | One-line summary of the problem it solves. | Python · PyTorch |
 | **[Project Three](#)** | One-line summary of the impact or result. | LangChain · LLMs |
 
