@@ -44,6 +44,18 @@ class AdityaSahani:
 
 ---
 
+## 📌 Featured Projects
+
+> _Pin your best repositories on your profile, then optionally highlight them here._
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Project One](#)** | One-line summary of what it does and why it's cool. | React · Node · MongoDB |
+| **[Project Two](#)** | One-line summary of the problem it solves. | Python · PyTorch |
+| **[Project Three](#)** | One-line summary of the impact or result. | LangChain · LLMs |
+
+---
+
 ## 🛠️ Tech Stack
 
 #### Languages
@@ -106,18 +118,6 @@ class AdityaSahani:
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahaniaditya&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
 </p> -->
-
----
-
-## 📌 Featured Projects
-
-> _Pin your best repositories on your profile, then optionally highlight them here._
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Project One](#)** | One-line summary of what it does and why it's cool. | React · Node · MongoDB |
-| **[Project Two](#)** | One-line summary of the problem it solves. | Python · PyTorch |
-| **[Project Three](#)** | One-line summary of the impact or result. | LangChain · LLMs |
 
 ---
 
