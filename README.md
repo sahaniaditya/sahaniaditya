@@ -43,6 +43,51 @@ class AdityaSahani:
 
 
 ---
+## 💼 Experience
+
+### ⚽ Software Engineer | ARKS Systems
+**📍 India | 🗓️ Jun 2026 – Present**
+
+- 🎥 Built the end-to-end **AI Scout Score** platform for sports analytics, integrating **pose estimation, player tracking, ball tracking, and action recognition** to generate explainable player performance scores.
+- ⚡ Architected a scalable distributed backend using **FastAPI, Apache Kafka, Redis, Docker, and AWS**, enabling high-throughput video processing and low-latency inference.
+- 📊 Developed production-ready microservices with **CI/CD**, Docker, and **SHAP-based explainability**, ensuring scalable deployment and reliable model serving.
+
+---
+
+### 🚀 Software Engineer | Kimaru.ai
+**📍 Remote | 🗓️ May 2026 – Jun 2026**
+
+- 🤖 Built AI-powered SaaS applications using **Next.js, TypeScript, FastAPI, and Tailwind CSS**.
+- 🔗 Integrated **LLMs, REST APIs, and modern frontend technologies** to deliver scalable, responsive user experiences.
+- ⚡ Optimized application performance and collaborated on production deployments following modern software engineering practices.
+
+---
+
+### 🤖 AI Engineer | Quark Inc.
+**📍 Japan | 🗓️ Jul 2025 – Apr 2026**
+
+- 🧠 Developed enterprise **Generative AI** applications using **LangChain, OpenAI APIs, Google Gemini, and ChromaDB**.
+- 🌾 Built and deployed a full-stack land leasing platform using **React, Node.js, Tailwind CSS, and AWS**.
+- 🚀 Delivered production-ready AI and cloud-native solutions for enterprise clients.
+
+---
+
+### 💻 Software Engineering Intern | Pattern Technologies
+**📍 India | 🗓️ May 2025 – Jul 2025**
+
+- 🤖 Developed **agentic workflow systems** using **FastAPI, Next.js, and LangGraph** for real-time AI task orchestration.
+- 🖼️ Built AI-powered **image generation and auditing pipelines** for e-commerce, including masking, defect detection, and automatic regeneration.
+- 📈 Improved generated image quality by **35%** through automated validation and redetailing workflows.
+
+---
+### 💚 Software Developer Intern | Kennemer Eco Solutions
+**📍 Asia (Remote)**
+
+- 🌱 Built and maintained full-stack web applications using **Django**, **React.js**, **SQL**, and **AWS**.
+- 📊 Developed scalable backend APIs, database models, and responsive dashboards for environmental sustainability solutions.
+- ☁️ Improved application performance and deployment workflows while collaborating with cross-functional teams.
+
+---
 
 ## 📌 Featured Projects
 
