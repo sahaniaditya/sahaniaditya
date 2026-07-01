@@ -51,9 +51,7 @@ class AdityaSahani:
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[PromptChef - VSCode Extension](https://github.com/sahaniaditya/PromptChef-VSCode)** | Turn vague prompts into clear, well-specified ones — right inside VS Code. | TypeScript · VSCode · LLMs |
-| **[Walmart-AI : Shopping Assistant](https://github.com/sahaniaditya/shopping-assistant)** | AI-powered shopping assistant that revolutionizes the online shopping experience for customers by automating online product searching - giving users with best ranked products based on his demand and saves time. It combines advanced AI capabilities, deep product research, voice interaction, and seamless checkout processes to create an unparalleled e-commerce platform.
-
- | NextJS · TypeScript · Gemini · SerpAPI |
+| **[Walmart-AI : Shopping Assistant](https://github.com/sahaniaditya/shopping-assistant)** | AI-powered shopping assistant that revolutionizes the online shopping experience for customers by automating online product searching - giving users with best ranked products based on his demand and saves time. It combines advanced AI capabilities, deep product research, voice interaction, and seamless checkout processes to create an unparalleled e-commerce platform. | NextJS · TypeScript · Gemini · SerpAPI |
 | **[Project Three](#)** | One-line summary of the impact or result. | LangChain · LLMs |
 
 ---
