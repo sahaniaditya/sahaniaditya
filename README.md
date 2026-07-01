@@ -52,7 +52,7 @@ class AdityaSahani:
 |---------|-------------|------|
 | **[PromptChef - VSCode Extension](https://github.com/sahaniaditya/PromptChef-VSCode)** | Turn vague prompts into clear, well-specified ones — right inside VS Code. | TypeScript · VSCode · LLMs |
 | **[Walmart-AI : Shopping Assistant](https://github.com/sahaniaditya/shopping-assistant)** | AI-powered shopping assistant that revolutionizes the online shopping experience for customers by automating online product searching - giving users with best ranked products based on his demand and saves time. It combines advanced AI capabilities, deep product research, voice interaction, and seamless checkout processes to create an unparalleled e-commerce platform. | NextJS · TypeScript · Gemini · SerpAPI |
-| **[Project Three](#)** | One-line summary of the impact or result. | LangChain · LLMs |
+| **[MusicRecommendationBasedOnFacialExpression](https://github.com/sahaniaditya/MusicRecommendationBasedOnFacialExpression)** | A web application that recommends music based on the facial emotion of the user - right into the website from Spotify. It utilizes ReactJS for the frontend, Node.js and Express for the backend, and MongoDB for the database. Additionally, it integrates PyTorch and TensorFlow for facial emotion recognition. | ReactJS · NodeJS · MongoDB · PyTorch · TailwindCSS |
 
 ---
 
