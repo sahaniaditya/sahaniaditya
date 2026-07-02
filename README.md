@@ -45,7 +45,7 @@ class AdityaSahani:
 ---
 ## 💼 Experience
 
-### ⚽ Software Engineer | ARKS Systems
+### ⚽ Software Engineer | AI Stealth Startup
 **📍 India | 🗓️ Jun 2026 – Present**
 
 - 🎥 Built the end-to-end **AI Scout Score** platform for sports analytics, integrating **pose estimation, player tracking, ball tracking, and action recognition** to generate explainable player performance scores.
