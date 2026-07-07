@@ -45,15 +45,6 @@ class AdityaSahani:
 ---
 ## 💼 Experience
 
-### ⚽ Software Engineer | AI Stealth Startup
-**📍 India | 🗓️ Jun 2026 – Present**
-
-- 🎥 Built the end-to-end **AI Scout Score** platform for sports analytics, integrating **pose estimation, player tracking, ball tracking, and action recognition** to generate explainable player performance scores.
-- ⚡ Architected a scalable distributed backend using **FastAPI, Apache Kafka, Redis, Docker, and AWS**, enabling high-throughput video processing and low-latency inference.
-- 📊 Developed production-ready microservices with **CI/CD**, Docker, and **SHAP-based explainability**, ensuring scalable deployment and reliable model serving.
-
----
-
 ### 🚀 Software Engineer | Kimaru.ai
 **📍 Remote | 🗓️ May 2026 – Jun 2026**
 
