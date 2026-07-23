@@ -26,11 +26,11 @@
 ```python
 class AdityaSahani:
     def __init__(self):
-        self.role        = "Full-Stack Developer"
+        self.role        = "Full-Stack Developer & AI Enthusiast"
         self.education   = "B.Tech CSE @ IIT Jodhpur"
         self.focus       = ["MERN Stack", "Agentic AI", "LLMs", "Deep Learning"]
         self.currently   = "Building intelligent, full-stack applications"
-        self.fun_fact    = "Tech enthusiast, avid reader, aspiring innovator"
+        self.fun_fact    = "Tech enthusiast, avid learner, aspiring innovator"
 
     def say_hi(self):
         print("Thanks for visiting — let's build something great!")
