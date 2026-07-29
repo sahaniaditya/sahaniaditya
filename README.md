@@ -45,16 +45,6 @@ class AdityaSahani:
 ---
 ## 💼 Experience
 
-### 🚀 Software Engineer | Kimaru.ai
-**📍 Remote | 🗓️ May 2026 – Jun 2026**
-
-- 🏭 Architected and implemented a production-grade supply chain optimization platform for a large carpet manufacturer, automating yarn requirement planning, minimizing raw material wastage, and generating optimized loom production schedules.
-- ⚙️ Developed scalable full-stack services using **FastAPI, Next.js, TypeScript, PostgreSQL, and Docker**, replacing manual planning workflows with an intelligent optimization engine.
-- ☁️ Deployed and maintained the application on **AWS** using containerized infrastructure, improving deployment reliability and operational scalability.
-- 👥 Led a team of **5+ software engineering interns**, owning technical architecture, feature planning, code reviews, and engineering best practices.
-
----
-
 ### 🤖 AI Engineer | Quark Inc.
 **📍 Japan | 🗓️ Jul 2025 – Apr 2026**
 
