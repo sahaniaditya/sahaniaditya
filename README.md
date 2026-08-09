@@ -27,7 +27,7 @@
 class AdityaSahani:
     def __init__(self):
         self.role        = "Full-Stack Developer & AI Enthusiast"
-        self.education   = "B.Tech CSE @ IIT Jodhpur"
+        self.education   = "B.Tech CSE @ IIT Jodhpur - Completed"
         self.focus       = ["MERN Stack", "Agentic AI", "LLMs", "Deep Learning"]
         self.currently   = "Building intelligent, full-stack applications"
         self.fun_fact    = "Tech enthusiast, avid learner, aspiring innovator"
